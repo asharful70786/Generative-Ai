@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "name": "Apple",
+    "description": "A sweet, crunchy fruit often red or green in color. Commonly eaten raw or in desserts."
+  },
+  {
+    "id": "2",
+    "name": "Banana",
+    "description": "A soft, sweet fruit with a yellow peel and high potassium content. Popular snack or smoothie ingredient."
+  },
+  {
+    "id": "3",
+    "name": "Orange",
+    "description": "A juicy citrus fruit known for its bright orange color and high vitamin C content."
+  },
+  {
+    "id": "4",
+    "name": "Strawberry",
+    "description": "A small, red fruit with seeds on the outside. Sweet and juicy, often used in desserts."
+  },
+  {
+    "id": "5",
+    "name": "Pineapple",
+    "description": "A tropical fruit with spiky skin and sweet, tangy yellow flesh. Common in juices and fruit salads."
+  }
+]

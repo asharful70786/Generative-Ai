@@ -1,0 +1,21 @@
+{
+  "name": "generative-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch openAi/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ai": "^5.0.60",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "open": "^10.2.0",
+    "openai": "^5.23.2"
+  }
+}

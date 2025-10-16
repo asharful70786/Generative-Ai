@@ -1,0 +1,20 @@
+{
+  "name": "07_langchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/google-genai": "^0.2.18",
+    "@langchain/openai": "^0.6.16",
+    "dotenv": "^17.2.3",
+    "langchain": "^0.3.36",
+    "readline-sync": "^1.4.10"
+  }
+}

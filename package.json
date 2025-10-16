@@ -12,9 +12,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@langchain/core": "^1.0.0-alpha.7",
     "ai": "^5.0.60",
-    "dotenv": "^17.2.2",
+    "chromadb": "^3.0.17",
+    "dotenv": "^17.2.3",
     "express": "^5.1.0",
+    "langchain": "^1.0.0-alpha.9",
     "open": "^10.2.0",
     "openai": "^5.23.2"
   }
